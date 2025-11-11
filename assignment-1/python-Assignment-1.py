@@ -1,5 +1,5 @@
 # ============================================================
-# Name          : Apurvam Arya
+# Name          : Ansh Sehrawat
 # Project Title : Daily Calorie Tracker
 # Date          : 07 October 2025
 # ============================================================
@@ -59,3 +59,4 @@ print(f"Average:\t{average_calories:.2f}")
 print("-------------------------------------------------")
 print(status)
 print("=================================================\n")
+
